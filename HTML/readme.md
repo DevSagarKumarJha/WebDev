@@ -6,7 +6,7 @@ For example, consider the following line of text:
 My cat is very grumpy
 ```
 
-If we wanted the text to stand by itself, we could specify that it is a paragraph by enclosing it in a paragraph (<p>) element:
+If we wanted the text to stand by itself, we could specify that it is a paragraph by enclosing it in a paragraph (`<p>`) element:
 
 ```HTML
 <p>My cat is very grumpy</p>
