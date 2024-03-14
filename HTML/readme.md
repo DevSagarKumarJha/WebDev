@@ -33,7 +33,7 @@ Elements can be placed within other elements. This is called nesting. If we want
 ```html
 <p>My cat is <strong>very</strong> grumpy.</p>
 ```
-<div style="background-color: white; color:black;">
+<div style="background: white; color:black; border: 2px">
 <h2 style="color:black">
 Output:
 </h2>
@@ -59,7 +59,7 @@ Not all elements follow the pattern of an opening tag, content, and a closing ta
   alt="Firefox icon" />
 
 ```
-<div style="background-color: white; color:black; height: 45vh">
+<div style="background: white; color:black; height: 45vh">
 <img
   src="https://raw.githubusercontent.com/mdn/beginner-html-site/gh-pages/images/firefox-icon.png"
   alt="Firefox icon" />
